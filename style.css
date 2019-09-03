@@ -1,0 +1,82 @@
+html, body {
+    height:100%;
+}
+
+h1 {
+    color: navy;
+}
+
+hr {
+    display: block;
+    border: 0;
+    border-top: 3px solid teal;
+    padding: 0; 
+}
+
+textarea {
+    width: 70%;
+}
+
+#moviename {
+    text-align: left;
+}
+
+#selectall, #deletebtn {
+    text-align: right;
+}
+
+#div_main {
+    font-family: Sans-serif;
+    margin: auto;
+    margin-top: 30px;
+    width: 500px;
+}
+
+#div_left {
+    width: 150px;
+    display: inline-block;
+    float: left;
+}
+
+#div_left p {
+    margin-bottom: 19px;
+}
+
+#div_right {
+    width: 350px;
+    display: inline-block;
+    /* float: right; */
+}
+
+#table_records {
+    width: 400px;
+}
+
+#textarea_feedback {
+    font-size: 12px;
+}
+
+#divMessage {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.clear {
+    clear: both;
+}
+
+.button {
+    padding: 10px 30px;
+}
+
+.width {
+    width: 250px;
+}
+
+.white {
+    background-color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
